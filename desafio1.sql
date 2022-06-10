@@ -1,3 +1,5 @@
+/* Crie um banco com o nome de SpotifyClone. Resposta: */
+
 DROP DATABASE IF EXISTS SpotifyClone;
 
 CREATE DATABASE SpotifyClone;
