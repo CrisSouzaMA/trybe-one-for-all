@@ -42,11 +42,11 @@ This project was made to practice avanced SQL lessons.
 ```bash
     # Clonar repositório
 
-    $ git clone git@github.com:CrisSouzaMA/trybe-all-for-one.git
+    $ git clone git@github.com:CrisSouzaMA/trybe-one-for-all.git
 
     # Entrar no diretório
 
-    $ cd trybe-all-for-one
+    $ cd trybe-one-for-all
 
 ```
 
