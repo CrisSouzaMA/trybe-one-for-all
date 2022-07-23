@@ -5,21 +5,21 @@
 <br>
 <br>
 
-## What is the project about?
+## Sobre o projeto:
 
-This project was made to practice avanced SQL lessons.
+Projeto desenvolvido para a prática de implementação de querys em MySQL.
 
 ---
 
-# Technologies used
+## Tecnologias usadas:
 - [SQL](https://www.w3schools.com/sql/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 #
 
-# Developed skills
+## Lições desenvolvidas:
 
-- Querys with:
+- Querys feitas com:
     - SELECT
     - CONCAT
     - DISTINCT
@@ -37,7 +37,7 @@ This project was made to practice avanced SQL lessons.
     - JOIN
 #
 
-# Instruções
+## Instruções
 
 ```bash
     # Clonar repositório
